@@ -1,1 +1,4 @@
-markdown: GFM
+theme: jekyll-theme-leap-day
+title: Welcome to trust!
+description: work in progress
+encoding: UTF-8
